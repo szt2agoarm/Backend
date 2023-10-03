@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\2023_1.felev\\Backend\\IskolaAPI\\IskolaAPI\\IskolaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\szt2agoarm\\Backend\\IskolaAPI\\IskolaAPI\\IskolaAPI.csproj",
       "projectName": "IskolaAPI",
-      "projectPath": "J:\\2023_1.felev\\Backend\\IskolaAPI\\IskolaAPI\\IskolaAPI.csproj",
+      "projectPath": "C:\\Users\\szt2agoarm\\Backend\\IskolaAPI\\IskolaAPI\\IskolaAPI.csproj",
       "packagesPath": "C:\\Users\\szt2agoarm\\.nuget\\packages\\",
-      "outputPath": "J:\\2023_1.felev\\Backend\\IskolaAPI\\IskolaAPI\\obj\\",
+      "outputPath": "C:\\Users\\szt2agoarm\\Backend\\IskolaAPI\\IskolaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
