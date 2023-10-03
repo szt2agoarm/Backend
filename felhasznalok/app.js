@@ -43,3 +43,15 @@ function addUser(user) {
         writeOut(responseJSON)
     })
 }
+
+function removeUser(id) {
+    fetch(url + id, {
+        method: "DELETE"
+    }) 
+        .then(response => response.json()) 
+        .then(responseJSON => {
+            console.dir(responseJSON)
+            writeOut(responseJSON)
+        })  
+
+}
